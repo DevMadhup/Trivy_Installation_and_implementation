@@ -1,6 +1,6 @@
 ## Trivy_Installation_and_implementation
 
-<details><summary><b>INSTALLATION STEPS</b></summary>
+<details><summary><b>Install Trivy</b></summary>
   
 ```bash
 sudo apt-get install wget apt-transport-https gnupg lsb-release
